@@ -1,0 +1,10 @@
+c:\users\shaur\source\repos\WinForms\WinForms\bin\Debug\WinForms.exe.config
+c:\users\shaur\source\repos\WinForms\WinForms\bin\Debug\WinForms.exe
+c:\users\shaur\source\repos\WinForms\WinForms\bin\Debug\WinForms.pdb
+c:\users\shaur\source\repos\WinForms\WinForms\obj\Debug\WinForms.csprojResolveAssemblyReference.cache
+c:\users\shaur\source\repos\WinForms\WinForms\obj\Debug\WinForms.Form1.resources
+c:\users\shaur\source\repos\WinForms\WinForms\obj\Debug\WinForms.Properties.Resources.resources
+c:\users\shaur\source\repos\WinForms\WinForms\obj\Debug\WinForms.csproj.GenerateResource.Cache
+c:\users\shaur\source\repos\WinForms\WinForms\obj\Debug\WinForms.csproj.CoreCompileInputs.cache
+c:\users\shaur\source\repos\WinForms\WinForms\obj\Debug\WinForms.exe
+c:\users\shaur\source\repos\WinForms\WinForms\obj\Debug\WinForms.pdb
